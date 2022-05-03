@@ -1,4 +1,9 @@
-# Fitting Binomial Distribution
+# EXP. NO: 01
+
+# DATE: 
+
+
+# <p align = "center"> Fitting Binomial Distribution </p>
 
 # Aim : 
 
@@ -59,4 +64,9 @@ else:
 ```
 
 
-# Results and Output : 
+# Output :
+![Screenshot (141)](https://user-images.githubusercontent.com/75243072/166450276-5549ab3f-ec05-498a-8e06-4bee6c720509.png)
+ 
+# Result:
+Thus, the program to fit binomial distribution for the given frequencey distribution.
+
