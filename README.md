@@ -32,6 +32,8 @@ The following are criteria for a frequency distribution to be a binomial distrib
 
 # Program
 ```Python
+# Developed by:Kumaran.B
+# Reg no:212220230026
 import numpy as np
 import math
 import scipy.stats
